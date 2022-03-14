@@ -16,5 +16,7 @@ public class GitTest {
         System.out.println("我在这一行");
         
         System.out.println("远程库更新");
+        
+        System.out.println("再试试");
     }
 }
